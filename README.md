@@ -15,5 +15,5 @@ Created in WordPress with the Kadence theme, where I present my web development,
 
 ### 📸 Screenshots
 
-![Home](screenshots/home.png)
-![Servicios](screenshots/servicios.png)
+![Home](screenshots/belayout-home-page.jpg)
+![Servicios](screenshots/belayout-services-page.jpg)
