@@ -18,7 +18,7 @@ Created in WordPress with the Kadence theme, where I present my web development,
 ![Home](screenshots/belayout-home-page.jpg)
 ![Servicios](screenshots/belayout-services-page.jpg)
 
-### 🛠 Tecnologías utilizadas
+### 🛠 Technologies used
 - WordPress
 - Kadence theme
 - HTML, CSS, PHP
